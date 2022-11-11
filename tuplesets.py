@@ -36,7 +36,7 @@ print(courses.intersection(courses2))  #returns common values
 print(courses.difference(courses2))   #returns courses not incommon
 print(courses.union(courses2))  #combines both sets
 
-REATING EMPTY LISTS, TUPLES AND SETS
+CREATING EMPTY LISTS, TUPLES AND SETS
 emp_list = [] 
 #or
 emp_list = list()
